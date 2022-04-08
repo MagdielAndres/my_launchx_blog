@@ -1,6 +1,6 @@
 baseURL = "https://magdielandres.github.io/my_launchx_blog/"
 languageCode = "en-us"
-title = "Bitácora de Viaje MAgdiel Andrés Castellanos"
+title = "Bitácora de Viaje Magdiel Andrés Castellanos"
 theme = "hugo-winston-theme"
 relativeURLs = true
 canonifyURLs = true

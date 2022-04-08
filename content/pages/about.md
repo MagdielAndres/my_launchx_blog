@@ -9,13 +9,14 @@ menu:
 
 Hola, aquí vas a leer un poco sobre mi 🤩
 
-> Excidit gente, si orat suo quaeque dura Calydon nata? Pars auro post stetit
-> adfusique imis amplexus. Agmina per fabricator
-> mittere Erymanthon habetque tot.
+Soy un apasionado por el desarrollo web que busca iniciarse en el sector IT, al igual me gusta dar soporte Técnico. Mi deseo es pertenecer a una empresa o startup que me guíe en mi crecimiento profesional, a la que pueda aportar mis conocimientos y habilidades.
 
-**Cineres Nile ipsa** origine discurrunt adest Unde, et quem clausus, imo,
-virens quoque tales, potuit. Ingentes insilit corpore nutricis praebebat roganti
-licuit. Denique a vestros adulantum in bella lina parte et arte generi di igitur
-quis, digitis pedes. Cum resonant tamen, namque in anxia. Non nostri trahens
-ancora.
+- Me gusta hacer deporte (Futbol sala) 
+- Me gusta escuchar música 
+- Ver peliculas de Acción V
+- er contenido tecnologico.
+- Convivir con mis amigos
+- Estar en compania de mi familia
+
+
 

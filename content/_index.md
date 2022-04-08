@@ -9,8 +9,9 @@ Hola ✌️  soy el explorer Margdiel Andrés y este es mi blog personal donde c
 Te invito a conocer mis aprendizajes y leer mis experiencias.
 
 🚀Mis expectativas para este proyecto:
--Utilizar Git y gitHun
--Aprender como aportar un proyeto desde GitHub
--Aprender como utilizar la terminal de mi SO
--Aprender como Utilizar mi Editor de texto (VsCode)
+
+- Utilizar Git y gitHun
+- Aprender como aportar un proyeto desde GitHub
+- Aprender como utilizar la terminal de mi SO
+- Aprender como Utilizar mi Editor de texto (VsCode)
 

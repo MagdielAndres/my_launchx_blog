@@ -8,6 +8,16 @@
     <language>en-us</language>
     <lastBuildDate>Sun, 24 Feb 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://magdielandres.github.io/my_launchx_blog/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>La semana 1 de Missión Backend</title>
+      <link>https://magdielandres.github.io/my_launchx_blog/posts/post_2/</link>
+      <pubDate>Sat, 09 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://magdielandres.github.io/my_launchx_blog/posts/post_2/</guid>
+      <description>Las herramientas que tienes que utilizar para un desarrollador backend: Conocer bien tu SO que utilizas día a día. Git y GitHub son dos cosas diferentes. Aprender bien la consola/terminal de tu SO Escoger el editor de texto y aprender a utilizarlo bien
+Lo que aprendi es como utlizar los comandos de git, como contribuir en algun proyecto open sourse, saber cual es la diferencia de fork y clon. Tambien vimos que nodejs es un modularizaión que corre con js del lado del servidor y que javaScript ocupa un avitualización V8.</description>
+    </item>
+    
+    <item>
       <title>La cultura de un Desarroll@r de Software</title>
       <link>https://magdielandres.github.io/my_launchx_blog/posts/intro/</link>
       <pubDate>Thu, 07 Apr 2022 18:20:45 -0600</pubDate>
